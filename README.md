@@ -1,6 +1,7 @@
 # Laravel Sandbox
 
 This my personal laraval sandbox when testing new things regarding Laravel, whether it be Eloquent/Artisan related.
+It currently is a CRUD application sculpted out as a social blogging app where users can create, edit, delete posts. Authentication is also preset thanks to Laravels amazing auth.
 
 ### Installing
 
