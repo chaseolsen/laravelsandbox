@@ -22,4 +22,4 @@ npm install
 
 * Artisan (To create controllers, migrations, and models)
 * Eloquent (For functionality to DB, rather than using queries, definitely a must have when deveoping within Laravel)
-* Tinker (Primarily for interaction with DB through my command line)
+* Tinker (Primarily for interaction with DB through the command line)
